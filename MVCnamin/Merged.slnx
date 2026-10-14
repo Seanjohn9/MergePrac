@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/MVC Project Winrev/">
+    <Project Path="MVC Project Winrev/MVC Project/MVC Project.csproj" />
+  </Folder>
+  <Folder Name="/SeanFinalMVC/">
+    <Project Path="SeanFinalMVC/Sean/Sean.csproj" />
+  </Folder>
+  <Project Path="MVC/MVC.csproj" />
+</Solution>
