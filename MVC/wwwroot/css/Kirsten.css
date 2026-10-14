@@ -1,0 +1,84 @@
+﻿body {
+    background-image: url('/css/maomao.gif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.display-1 {
+    margin-top: 60px;
+    color: #f44d7b;
+    font-family: Consolas;
+    background-color: rgba(196, 209, 139, 0.8);
+    border-style: dotted;
+    border-color: #f44d7b;
+    border-width: 5px;
+    text-shadow: 2px 2px 5px #2e1226;
+}
+
+.sten {
+    color: #FEB8B6;
+    border-style: groove;
+    border-color: #144d1b;
+    background-color: rgba(158, 175, 139, 0.6);
+    font-family: 'Bookman Old Style';
+    text-shadow: 2px 2px 5px #2e1226;
+}
+
+.description {
+    display: flex;
+    gap: 30px;
+    max-width: 85%;
+    margin: 60px auto;
+}
+
+#container-1 {
+    width: 100%;
+    max-width: 65%;
+    padding: 15px 25px;
+    border-color: lightpink;
+}
+
+#pic1 {
+    margin-right: 20px;
+    border: dashed;
+    float: left;
+    border-width: 5px;
+    border-color: lightpink;
+}
+
+#container-2 {
+    width: 100%;
+    max-width: 30%;
+    padding: 15px 20px;
+    border-color: lightpink;
+}
+
+#container-3 {
+    margin-left: 150px;
+    width: 75%;
+    padding: 10px 20px;
+    text-align: justify;
+    margin-bottom: 20px;
+    border-color: lightpink;
+}
+
+#button-1 {
+    font-size: 18px;
+    background-color: #FFB7C5;
+    color: white;
+    border-radius: 15px;
+    font-family: 'Book Antiqua';
+    text-shadow: 2px 2px 5px #2e1226;
+}
+
+#pic2 {
+    margin-top: 40px;
+    margin-left: 40%;
+    border-style: double;
+    border-color: lightpink;
+    border-width: 10px;
+    width: 100%;
+    max-width: 240px;
+}
